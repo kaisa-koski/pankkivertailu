@@ -11,7 +11,6 @@ using System.Collections.Generic;
 /// 
 /// Ohjelmalla voi viitekorkoa muuttamalla myös tutkia, kuinka suureksi
 /// kuukausittainen lainanmaksuerä ja kokonaislaina kasvaa erisuuruisilla viitekoroilla.
-/// Ohjelmalla
 /// </summary>
 public class Pankkivertailu
 {
